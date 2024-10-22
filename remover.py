@@ -1,7 +1,7 @@
 # Made by Yasser
 # Contact on Telegram: https://t.me/yyeir
 
-from TikTokAPI import TikTokAPI
+from TikTokApi import TikTokApi
 
 def delete_reposts(username, password):
     api = TikTokAPI(username, password)
